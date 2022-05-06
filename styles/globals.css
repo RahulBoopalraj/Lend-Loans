@@ -10,7 +10,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 
-  background-image: radial-gradient(hsla(220 13% 69% /.2) 0.5px,hsla(220 17% 17% /1) 0.5px);
+  background-image: radial-gradient(hsla(219, 13%, 69%, 0.2) 0.5px,hsl(220, 17%, 17%) 0.5px);
 }
 
 a {
