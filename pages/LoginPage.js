@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import { SignupPage } from './SignupPage'
 
 
 const Body = styled.div`
@@ -131,7 +132,7 @@ const LoginPage = () => {
             </Credentials>
             <Button>Submit</Button>
             </form>
-            <Link><A href='#'> Forget PassWord ? </A> <A href="#">Sign up</A></Link>
+            <Link><A href='#'> Forget PassWord ? </A> <A href="./SignupPage">Sign up</A></Link>
         </Main>
     </Body>
   )
