@@ -11,6 +11,7 @@ body {
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 
   background-image: radial-gradient(hsla(219, 13%, 69%, 0.2) 0.5px,hsl(220, 17%, 17%) 0.5px);
+background-size: 5px 5px;
 }
 
 a {
